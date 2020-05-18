@@ -1,4 +1,4 @@
-This playground is an overview of Kotlin language features. I'll introduce syntax for starters and explain the basics, and what makes Kotlin a language that deserve your attention. 
+Esse playground é uma visão geral dos recursos da linguagem Kotlin. Vou apresentar a sintaxe para iniciantes e explicar o básico, e o que faz do Kotlin uma linguagem que merece sua atenção.
 
 ### Prerequisite
 
