@@ -1,4 +1,4 @@
-title: Kotlin Starter Pack
+title: Kotlin Iniciante
 plan:
 - title: About this playground
   statement: parts/0_welcome.md
@@ -20,5 +20,3 @@ plan:
   statement: parts/8_ranges.md
 - title: Operator overloading
   statement: parts/9_operator_overloading.md
-#- title: Functions Extended
-#  statement: parts/10_functions_ext.md
